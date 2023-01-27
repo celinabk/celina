@@ -13,5 +13,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: projetel
-        password: FREEcom98
+        password: FREEcom98@
         server-dir : public_html/
